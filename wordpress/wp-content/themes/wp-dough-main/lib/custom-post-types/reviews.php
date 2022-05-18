@@ -32,6 +32,4 @@ function reviewPostType()
     ];
 
     \register_post_type('review', $args);
-
 }
-
