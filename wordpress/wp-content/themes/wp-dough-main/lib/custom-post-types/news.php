@@ -6,7 +6,7 @@ function reviewPostType()
 {
     $args = [
         'labels' => [
-            'name' => 'Nieuws',
+            'name' => 'Review',
             'singular_name' => 'Review',
             'all_items' => 'Al het Review',
             'edit_item' => 'Review bewerken',
@@ -27,7 +27,7 @@ function reviewPostType()
             'editor',
         ],
         'rewrite' => [
-            'slug' => 'nieuws',
+            'slug' => 'review',
         ],
     ];
 
