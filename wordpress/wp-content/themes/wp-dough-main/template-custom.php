@@ -10,10 +10,15 @@ render('views/templates/custom.php', compact('title', 'content'));
 ?>
 
 
-<!doctype html>
+<!DOCTYPE html>
+<html>
+<head>
+<title>Home</title>
+</head>
+<body>
 
-<h1>test</h1>
+<h1>Intro</h1>
+<p>Welkom op de site van wonder. Op deze site kan je eigenlijk reviews zien van mensen uit de organisatie wonder</p>
 
-<h2>lol</h2>
-
-<h3>GERKIN METHODEEEEEEEEEE</h3>
+</body>
+</html>
