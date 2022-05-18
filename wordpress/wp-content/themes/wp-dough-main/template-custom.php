@@ -15,3 +15,5 @@ render('views/templates/custom.php', compact('title', 'content'));
 <h1>test</h1>
 
 <h2>lol</h2>
+
+<h3>GERKIN METHODEEEEEEEEEE</h3>
